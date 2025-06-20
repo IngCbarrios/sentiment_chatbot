@@ -16,8 +16,28 @@ Este proyecto es un chatbot simple pero potente que analiza el **sentimiento** d
 - Python 3.8+
 
 ## 🚀 Instalación
-
 1. Clona el repositorio:
-   ```bash
    git clone https://github.com/tu_usuario/sentiment_chatbot.git
    cd sentiment_chatbot
+
+2. Instala las dependencias:
+   pip install -r requirements.txt
+
+3. Ejecuta el chatbot:
+   python chatbot.py
+
+## 💬 Ejemplo de uso
+Escribe un mensaje (o 'salir' para terminar): Me siento feliz
+Análisis de sentimiento: positivo 🙂
+
+## 📦 Estructura del proyecto
+chatbot.py              # Código principal
+requirements.txt        # Librerías necesarias
+README.md               # Esta documentación
+
+
+## ✍️ Autor
+Christian Alejandro Barrios Quiroz  
+Ingeniero Biomédico y Desarrollador en formación
+
+
