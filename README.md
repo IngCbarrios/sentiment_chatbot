@@ -17,7 +17,7 @@ Este proyecto es un chatbot simple pero potente que analiza el **sentimiento** d
 
 ## 🚀 Instalación
 1. Clona el repositorio:
-   git clone https://github.com/tu_usuario/sentiment_chatbot.git
+   git clone https://github.com/IngCbarrios/sentiment_chatbot.git
    cd sentiment_chatbot
 
 2. Instala las dependencias:
