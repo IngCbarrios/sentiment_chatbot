@@ -15,16 +15,6 @@ Este proyecto es un chatbot simple pero potente que analiza el **sentimiento** d
 - `googletrans` – Traducción automática
 - Python 3.8+
 
-## 🚀 Instalación
-1. Clona el repositorio:
-   git clone https://github.com/IngCbarrios/sentiment_chatbot.git
-   cd sentiment_chatbot
-
-2. Instala las dependencias:
-   pip install -r requirements.txt
-
-3. Ejecuta el chatbot:
-   python chatbot.py
 
 ## 💬 Ejemplo de uso
 Escribe un mensaje (o 'salir' para terminar): Me siento feliz
@@ -38,6 +28,6 @@ README.md               # Esta documentación
 
 ## ✍️ Autor
 Christian Alejandro Barrios Quiroz  
-Ingeniero Biomédico y Desarrollador en formación
+Biomedical Engineer • SQL & Python Developer
 
 
