@@ -27,7 +27,6 @@ README.md               # Esta documentación
 
 
 ## ✍️ Autor
-Christian Alejandro Barrios Quiroz  
-Biomedical Engineer • SQL & Python Developer
+Ing. Christian Barrios
 
 
